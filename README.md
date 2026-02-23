@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there!
+I’m Razvan, a 2nd-year Computer Science and Information Technology student at the Technical University of Cluj-Napoca (UTCN) 🎓. I am passionate about project development, problem-solving, clean code, and building efficient algorithms 💻.
 
-<!--
-**razvandancul/razvandancul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently focused on:
+Languages: Java, C/C++ 🛠️
 
-Here are some ideas to get you started:
+Concepts: Mastering Object-Oriented Programming and Data Structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also worked in uni with: Assembly, SQL, VHDL
+
+📂 Some stuff I’ve built:
+Java Snake Game : A recreation of the classic Snake game developed using Java Swing, focusing on GUI logic and event handling.
+
+⚡ Fun Facts:
+ I’m powered by coffee.
+
+ I have a huge passion for cars.
+
+ In my free time, you'll find me at the gym, driving, gaming or playing football. ⚽
