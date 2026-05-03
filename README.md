@@ -4,7 +4,7 @@ I’m Razvan, a 2nd-year Computer Science and Information Technology student at 
 
 🔭 Currently focused on:
 
-• Languages: Java, C/C++ 🛠️
+• Languages: Java, C/C++, Python 🛠️
 
 • Concepts: Mastering Object-Oriented Programming and Data Structures.
 
@@ -12,7 +12,14 @@ I’m Razvan, a 2nd-year Computer Science and Information Technology student at 
 
 📂 Some stuff I’ve built:
 
-• Java Snake Game : A recreation of the classic Snake game developed using Java Swing, focusing on GUI logic and event handling.
+• **Java Snake Game** – A recreation of the classic Snake game built with **Java Swing**. This project highlights core OOP principles, custom GUI logic, and real-time event handling.
+
+• **RobotArm** – An **Arduino-powered** 6-DOF robotic arm integrated with a sensory glove, allowing for intuitive control via hand gestures and sensor data.
+
+• **Tourist App** – A comprehensive **Java** application for browsing and purchasing vacation packages. Features include dedicated dashboards for customers and businesses, secure authentication, account management, and automated **PDF invoice generation** for every transaction.
+
+• **DinuBlueSpeed Website** – A full-stack web application developed for **DinuBlueSpeed SRL**. Built with a **TypeScript** frontend and a **Python/Django** backend, it features a company presentation, customer reviews, and an integrated contact form that triggers automated email notifications upon submission.
+
 
 ⚡ Fun Facts:
 
