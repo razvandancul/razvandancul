@@ -20,6 +20,7 @@ I’m Razvan, a 2nd-year Computer Science and Information Technology student at 
 
 • **DinuBlueSpeed Website** – A full-stack web application developed for **DinuBlueSpeed SRL**. Built with a **TypeScript** frontend and a **Python/Django** backend, it features a company presentation, customer reviews, and an integrated contact form that triggers automated email notifications upon submission.
 
+• **Elevator in VHDL** - A hardware elevator controller implemented in VHDL and synthesized for Xilinx FPGAs (Vivado toolchain).
 
 ⚡ Fun Facts:
 
@@ -27,4 +28,4 @@ I’m Razvan, a 2nd-year Computer Science and Information Technology student at 
 
  • Passionate about cars.
 
- • In my free time, you'll find me at the gym, driving, playing football. ⚽
+ • In my free time, you'll find me at the gym, driving, playing football. 
