@@ -16,7 +16,7 @@ I’m Razvan, a 2nd-year Computer Science and Information Technology student at 
 
 • **RobotArm** – An **Arduino-powered** 6-DOF robotic arm integrated with a sensory glove, allowing for intuitive control via hand gestures and sensor data.
 
-• **Tourist App** – A comprehensive **Java** application for browsing and purchasing vacation packages. Features include dedicated dashboards for customers and businesses, secure authentication, account management, and automated **PDF invoice generation** for every transaction.
+• **Tourist App** – A full **Java** application for browsing and purchasing vacation packages. Features include dedicated dashboards for customers and businesses, secure authentication, account management, and automated PDF invoice generation for every transaction.
 
 • **DinuBlueSpeed Website** – A full-stack web application developed for **DinuBlueSpeed SRL**. Built with a **TypeScript** frontend and a **Python/Django** backend, it features a company presentation, customer reviews, and an integrated contact form that triggers automated email notifications upon submission.
 
